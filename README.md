@@ -1,4 +1,4 @@
-# Project Progress
+# Project Status: GREEN
 Wesley Family Services Team 2
 
 ## Accomplishments So Far
