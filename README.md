@@ -1,20 +1,15 @@
-# Project Progress
+# Project Progress: \(![#ffff00](https://placehold.it/15/c5f015/000000?text=+)\) YELLOW
 Wesley Family Services Team 2
 
 ## Accomplishments So Far
 
-#### 2/26/18 - 2/26/18
-* Had two conversation with the client about the database set up and clarification of the workflow for this project.
-* Complete the backend dataset set up and tested to ensure it fits the requirements
-* Completed a neatly drawn wireframe using draw.io
-* Learned and completed the skeleton version of 3 out of 4 functionalities of the application
-* Created another document to record the settings used to develop the application.
-* Updated existing functionalities to ensure that the application is performing well
-* Research and learn how to add theme to sharepoint application
-* Updated Project Tracker
+#### 3/19/18 - 3/26/18
+* Updated and Revised wireframes in preparation for meeting with client
+* Researched custom SharePoint "webpart" creation and code tutorials
+* Created Issues Log for recording development issues in conjunction with project milestone tracking
+* Fixed Project Tracker, added Project Status Indicator
 
-
-#### 2/19/18 - 2/26/18
+#### 3/5/18 - 3/19/18
 * Made final additions and edits to the project proposal and sent the completed proposal to the client
 * Developed data dictionary  during the most recent meeting with the client.
 * Created the sharepoint list based on the data dictionary and preferences of the client
