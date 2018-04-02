@@ -3,6 +3,16 @@ Wesley Family Services Team 2
 
 ## Accomplishments So Far
 
+#### 3/26/18 - 4/2/18
+* Had two conversations with clients to make sure that our implementation fits the requirement.
+* Coordinated with client and figured out how to output audit reports
+* Created another document to record the settings used to develop the application.
+* Tried to add materialize stylesheet to two pages and make successful
+* Learned power BI and created a demo version of audit
+* Debugged and optimized the automation workflow for data insertion
+* Figured out how to create image link web parts and implement selectivity in what user groups can see what web parts
+* Went through tutorials about Sharepoint designer and custom web part packaging, began initial coding
+
 #### 3/19/18 - 3/26/18
 * Updated and Revised wireframes in preparation for meeting with client
 * Researched custom SharePoint "webpart" creation and code tutorials
