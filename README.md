@@ -3,6 +3,16 @@ Wesley Family Services Team 2
 
 ## Accomplishments So Far
 
+#### 4/2/18 - 4/9/18
+
+* Edited CSS code and inserted scripts to implement our designs.
+* Finished adding Links and Buttons to Home page
+* Updated target audience to each part of the home page
+* Finished Power BI Tables for report generation
+* Fixed flow for emails to be sent whenever approval is requested
+* Modified table settings for target audience, email, etc.
+* Resolved blocks involving flows and user group visibility
+
 #### 3/26/18 - 4/2/18
 * Had two conversations with clients to make sure that our implementation fits the requirement.
 * Coordinated with client and figured out how to output audit reports
